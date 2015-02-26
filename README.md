@@ -6,7 +6,9 @@ Addon for [CodeMirror](http://codemirror.net) that helps to show invisibles.
 
 ## Install
 
+```
 bower i cm-show-invisibles --save
+```
 
 ## How to use?
 
