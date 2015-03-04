@@ -7,7 +7,8 @@ Addon for [CodeMirror](http://codemirror.net "CodeMirror") that helps to show in
 ## Install
 
 ```
-bower i cm-show-invisibles --save
+bower i cm-show-invisibles --save # or
+npm i cm-show-invisibles --save
 ```
 
 ## How to use?
