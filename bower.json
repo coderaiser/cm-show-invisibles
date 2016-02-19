@@ -20,6 +20,7 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
-    "img"
+    "img",
+    ".travis.yml"
   ]
 }
