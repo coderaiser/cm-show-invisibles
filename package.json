@@ -4,7 +4,8 @@
   "description": "Addon for CodeMirror that helps to show invisibles.",
   "main": "lib/show-invisibles.js",
   "scripts": {
-    "test": "jshint lib && jscs lib"
+    "lint": "jshint lib && jscs lib",
+    "test": "npm run lint"
   },
   "repository": {
     "type": "git",
