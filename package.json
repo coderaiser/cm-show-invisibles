@@ -8,7 +8,9 @@
     "build:legacy": "babel lib -d legacy",
     "build": "redrun rm:* build:*",
     "wisdom": "npm run build",
-    "lint": "jshint lib && jscs lib",
+    "lint:hint": "jshint lib && jscs lib",
+    "lint:eslint": "eslint lib",
+    "lint": "redrun lint:*",
     "test": "npm run lint",
     "rm:legacy": "rimraf legacy",
     "rm:dist": "rimraf dist"
@@ -34,6 +36,7 @@
     "babel-core": "^6.25.0",
     "babel-loader": "^7.0.0",
     "babel-preset-es2015": "^6.24.1",
+    "eslint": "^4.0.0",
     "jscs": "^2.10.1",
     "jshint": "^2.9.1",
     "redrun": "^5.9.15",
