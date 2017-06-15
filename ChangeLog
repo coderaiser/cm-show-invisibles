@@ -1,3 +1,9 @@
+2017.06.15, v2.0.1
+
+feature:
+- (bower) ignore: add webpack.config.js
+
+
 2017.06.15, v2.0.0
 
 feature:
