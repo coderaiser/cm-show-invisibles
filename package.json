@@ -2,7 +2,7 @@
   "name": "cm-show-invisibles",
   "version": "3.0.0",
   "description": "Addon for CodeMirror that helps to show invisibles.",
-  "main": "legacy/show-invisibles.js",
+  "main": "lib/show-invisibles.js",
   "scripts": {
     "lint": "madrun lint",
     "fix:lint": "madrun fix:lint"
