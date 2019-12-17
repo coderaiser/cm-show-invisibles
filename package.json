@@ -1,6 +1,6 @@
 {
   "name": "cm-show-invisibles",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Addon for CodeMirror that helps to show invisibles.",
   "main": "lib/show-invisibles.js",
   "scripts": {
