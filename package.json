@@ -29,6 +29,6 @@
     "eslint-plugin-putout": "^5.0.1",
     "madrun": "^7.0.2",
     "putout": "^9.11.4",
-    "supertape": "^1.2.4"
+    "supertape": "^2.0.1"
   }
 }
